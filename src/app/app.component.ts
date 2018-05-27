@@ -8,5 +8,5 @@ import { PeopleService } from './people.service';
   providers: [ PeopleService]
 })
 export class AppComponent {
-  title = 'app';
+  title = 'app2';
 }
